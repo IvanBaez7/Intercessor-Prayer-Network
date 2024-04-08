@@ -9,7 +9,7 @@ const map = L.map('map', {
 // map.setMaxBounds(maxBounds);
 
 L.tileLayer(
-  'https://tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png?apikey=8b1d697244bc46909bbf2b023978a298',
+  'https://tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png?apikey=goes here',
   {
     attribution:
       'Tiles by <a href="http://www.thunderforest.com/">Thunderforest</a> | Data by <a href="http://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>',
